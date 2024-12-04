@@ -1,0 +1,61 @@
+<website><head xmlns="http://www.w3.org/1999/xhtml"></head><body xmlns="http://www.w3.org/1999/xhtml"><website>
+<br />
+    <header>
+        <title>
+            Thinkseal's Website
+        </title>
+    </header>
+<br />
+
+    <content>
+        <section>
+            <h1>
+                Hi I am Thinkseal.
+            </h1>
+<br />
+            <p>
+                I try to code sometimes.
+            </p>
+        </section>
+
+        <section>
+            <details close="">
+                <summary>
+                    Some of my projects
+                </summary>
+                <ul>
+                    <li>
+                        <a href="https://modrinth.com/modpack/yam" target="_blank" rel="noopener noreferrer">
+                            Yet Another Modpack
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#top" rel="noopener noreferrer">
+                            This webpage
+                        </a>
+                    </li>
+                </ul>
+            </details>
+        </section>
+
+        <section>
+            <details close="">
+                <summary>
+                    Some of my accounts
+                </summary>
+                <ul>
+                    <li>
+                        <a href="https://modrinth.com/user/thinkseal" target="_blank" rel="noopener noreferrer">
+                            Modrinth
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://github.com/Thinkseal" target="_blank" rel="noopener noreferrer">
+                            GitHub
+                        </a>
+                    </li>
+                </ul>
+            </details>
+        </section>
+    </content>
+</website></body></website>
