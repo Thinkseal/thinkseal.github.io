@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@intergrav/dev.css@3">
+<title>Thinkseal's website</title>
+</head>
+<body>
+    <h1>Hi I am Thinkseal.</h1>
+    <p>I try to code sometimes.</p>
+    <details close=""> <summary>some of my projects</summary> <ul> <li> <a href="https://modrinth.com/modpack/yam" target="_blank" rel="noopener noreferrer">
+        Yet Another Modpack
+        </a> </li> <li> <a href="#top" rel="noopener noreferrer">
+        this webpage
+    </a> </li> </ul> </details>
+    <details close=""> <summary>some of my accounts</summary> <ul> <li> <a href="https://modrinth.com/user/thinkseal" target="_blank" rel="noopener noreferrer">
+        Modrinth
+        </a> </li> <li> <a href="https://github.com/Thinkseal" target="_blank" rel="noopener noreferrer">
+        GitHub
+    </a> </li> </ul> </details>
+</body>
+</html>
